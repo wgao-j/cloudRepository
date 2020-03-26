@@ -4,7 +4,7 @@ public class wode {
         String t ="";
         int i = 0;
         System.out.println("log");
-        System.out.println("log");
+        System.out.println("log1");
     }
     
     public void test(){
