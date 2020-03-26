@@ -4,4 +4,7 @@ public class wode {
         String t ="";
 //        t = "ni";
     }
+    
+    public void test(){
+    }
 }
