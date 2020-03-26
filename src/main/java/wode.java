@@ -5,4 +5,7 @@ public class wode {
         int i = 0;
         System.out.println("log");
     }
+    
+    public void test(){
+    }
 }
