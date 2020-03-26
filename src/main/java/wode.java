@@ -9,10 +9,8 @@ public class wode {
 
     public void test(){
         System.out.println("log");
-        System.out.println("log2");
     }
     public void add(){
-        System.out.println("add");
         System.out.println("add");
     }
 }
