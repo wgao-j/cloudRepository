@@ -8,5 +8,6 @@ public class wode {
 
     public void test(){
         System.out.println("log");
+
     }
 }
