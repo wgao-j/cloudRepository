@@ -9,6 +9,6 @@ public class wode {
 
     public void test(){
         System.out.println("log");
-
+        System.out.println("log2");
     }
 }
