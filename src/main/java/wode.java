@@ -5,7 +5,6 @@ public class wode {
         int i = 0;
         System.out.println("log");
         System.out.println("log1");
-        System.out.println("stachChange");
     }
 
     public void test(){
