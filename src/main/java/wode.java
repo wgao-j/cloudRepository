@@ -11,4 +11,7 @@ public class wode {
         System.out.println("log");
 
     }
+    public void add(){
+        System.out.println("add");
+    }
 }
