@@ -9,7 +9,7 @@ public class wode {
 
     public void test(){
         System.out.println("log");
-        System.out.println("log2");
+        System.out.println("log3");
     }
     public void add(){
         System.out.println("add");
