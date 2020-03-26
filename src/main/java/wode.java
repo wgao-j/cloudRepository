@@ -13,5 +13,6 @@ public class wode {
     }
     public void add(){
         System.out.println("add");
+        System.out.println("add");
     }
 }
